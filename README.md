@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glorypaul-pixel
+- 👋 Hi, I’m Madubueze Gloria Ifeoma
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on web development
