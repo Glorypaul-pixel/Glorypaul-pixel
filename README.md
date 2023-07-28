@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Madubueze Gloria Ifeoma
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning React.js.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me 08142401236
 
 <!---
